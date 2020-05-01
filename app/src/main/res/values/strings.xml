@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Assignment03</string>
+
+    <string name="search_hint">Enter an address</string>
+    <string name="search_button">Search</string>
+
+    <!-- Access token for mapbox -->
     <string name="access_token">pk.eyJ1IjoiamNwYXNpbGxhcyIsImEiOiJjazlqN252OG8wNmFnM21xazhqdHE3bXJhIn0.sIjEJCOU_N3CZ3gLi92mtA</string>
 </resources>
